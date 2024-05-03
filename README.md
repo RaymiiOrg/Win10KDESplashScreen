@@ -4,11 +4,13 @@
 
 ## Installation Instructions:
 
-Download [ZIP via GitHub](https://github.com/RaymiiOrg/Win10KDESplashScreen/archive/refs/heads/master.zip) and extract to the following folder:
+* Download [ZIP via GitHub](https://github.com/RaymiiOrg/Win10KDESplashScreen/archive/refs/heads/master.zip) or clone this repository
+* Extract ZIP file
+* Move `Win10Splash` folder to:
 
     $HOME/.local/share/plasma/look-and-feel/
 
-If it does not exist, create the folder. The contents should look like:
+If the folder does not exist, create the it. The contents should look like:
 
 ```
 $ tree ~/.local/share/plasma/look-and-feel/ 
