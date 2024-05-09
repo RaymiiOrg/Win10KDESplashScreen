@@ -2,7 +2,9 @@
 
 ![preview](Win10Splash/contents/previews/splash.png)
 
-## Installation Instructions:
+Get in in the [KDE Store](https://store.kde.org/p/2152643) or via the System Settings.
+
+## Manual Installation Instructions:
 
 * Download [ZIP via GitHub](https://github.com/RaymiiOrg/Win10KDESplashScreen/archive/refs/heads/master.zip) or clone this repository
 * Extract ZIP file
